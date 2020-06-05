@@ -1,0 +1,7 @@
+{ 
+    "name": "Template1", 
+    "dataColors": ["#58CBFD", "#2C648B", "#11FFF6", "#53E59D", "#A994FB", "#FF7574", "#FFBF76", "#A4EAFF"],
+    "background":"#58CBFD",
+    "foreground": "#2D6489",
+    "tableAccent": "#2D6489"
+}
