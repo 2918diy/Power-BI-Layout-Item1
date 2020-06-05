@@ -1,0 +1,36 @@
+{
+    "dataRoles": [
+        {
+            "displayName": "Any Value",
+            "name": "X",
+            "kind": "Measure"
+        }
+    ],
+    "dataViewMappings": [
+        {
+            "single": {
+                "role": "X"
+            }
+        }
+    ],
+    "objects": {
+        "layoutSetting": {
+            "displayName": "Layout Setting",
+            "properties": {
+                "opcty": {
+                    "displayName": "Opacity",
+                    "type": {
+                        "numeric": true
+                    }
+                },
+                "borderWidth": {
+                    "displayName": "Border Width",
+                    "type": {
+                        "numeric": true
+                    }
+                }
+            }
+        }
+    },
+    "supportsLandingPage": false
+}
